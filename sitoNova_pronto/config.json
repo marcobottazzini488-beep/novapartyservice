@@ -1,0 +1,13 @@
+{
+    "project": "sitoNova",
+    "description": "Struttura base per un sito moderno, ispirata a Basement Studio.",
+    "folders": [
+        "css",
+        "js",
+        "img",
+        "fonts",
+        "data",
+        "pages"
+    ],
+    "instructions": "Aggiungi i file HTML, CSS e JS nelle rispettive cartelle per iniziare."
+}
